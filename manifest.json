@@ -1,0 +1,11 @@
+{
+  "id": "obsidian-timer-plugin",
+  "name": "Timer Tracker",
+  "version": "0.1.0",
+  "description": "A simple timer plugin for Obsidian.",
+  "author": "Fred Durham",
+  "authorUrl": "http://www.google.com",
+  "isDesktopOnly": true,
+  "minAppVersion": "0.9.4",
+  "js": "main.js"
+}
